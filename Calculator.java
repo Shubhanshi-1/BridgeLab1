@@ -11,4 +11,7 @@ System.out.println(a+b);
 public static void Substraction(a,b){
 System.out.println(a-b);
 }
+public static void multiplication(a,b){
+System.out.println(a*b);
+}
 }
