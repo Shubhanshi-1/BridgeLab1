@@ -8,4 +8,7 @@ addition(a,b); substraction(a,b); multiplication(a,b); division(a,b);
 public static void addition(a,b){
 System.out.println(a+b);
 }
+public static void Substraction(a,b){
+System.out.println(a-b);
+}
 }
